@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(0, 132, 255, 0.144);
+}
+
+.cardPhoto{
+    height: 30vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.cardPhotoDetails{
+    height: 60vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    overflow: hidden;
+}
